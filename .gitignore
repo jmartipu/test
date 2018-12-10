@@ -1,0 +1,5 @@
+*.[oa]
+*~
+*.log
+!lib.a
+build/
